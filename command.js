@@ -1,5 +1,5 @@
-//Lara-MD Whatsapp User Bot
-//Created BY Sadeesha
+//乛 𓆩ＨＡＳＮＡＩＮ؜𓆪〆-MD Whatsapp User Bot
+//Created BY 乛 𓆩ＨＡＳＮＡＩＮ؜𓆪〆
 
 var commands = [];
 
