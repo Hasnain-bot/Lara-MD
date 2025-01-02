@@ -1,12 +1,12 @@
 {
-  "name": "lara",
+  "name": "乛 𓆩ＨＡＳＮＡＩＮ؜𓆪〆",
   "version": "1.0.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
+  "description": "乛 𓆩ＨＡＳＮＡＩＮ؜𓆪〆-MD WhatsApp bot created 乛 𓆩ＨＡＳＮＡＩＮ؜𓆪〆 With using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "start": "pm2 start index.js --deep-monitoring --attach --name HASNAIN",
+    "stop": "pm2 stop HASNAIN",
+    "restart": "pm2 restart HASNAIN"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
